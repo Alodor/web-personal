@@ -4,5 +4,6 @@
 <meta name="description" content="Enfocado al diseño y desarrollo de aplicaciones web y moviles con estandares actuales de UI/UX, Seguridad y Compatibilidad con distintos navegadores y dispositivos.">        
 <link rel="shortcut icon" href="assets/images/favicon.ico">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oxygen:300,400,700">
 <link rel="stylesheet" href="assets/css/styles.css">
 <title>Alodor | Desarrollador de aplicaciones</title>

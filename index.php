@@ -9,6 +9,8 @@
         <?php include 'assets/navbar.php'; ?>
         <!-- /Navbar -->
         
+        <h1>Hola Mundo</h1>
+        
         <!-- Footer -->
         <?php include 'assets/footer.php'; ?>
         <!-- /Footer -->
