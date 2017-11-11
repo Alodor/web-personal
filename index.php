@@ -9,7 +9,10 @@
         <?php include 'assets/navbar.php'; ?>
         <!-- /Navbar -->
         
-        
+        <!-- Footer -->
+        <?php include 'assets/footer.php'; ?>
+        <!-- /Footer -->
+                        
         <!-- Scripts -->
         <?php include 'assets/scripts.php'; ?>
         <!-- /Scripts -->
