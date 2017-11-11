@@ -5,11 +5,15 @@
     </head>
     
     <body>
-        <!-- Navbar -->
-        <?php include 'assets/navbar.php'; ?>
-        <!-- /Navbar -->
-        
-        <h1>Hola Mundo</h1>
+        <header>
+            <!-- Navbar -->
+            <?php include 'assets/navbar.php'; ?>
+            <!-- /Navbar -->
+            
+            <!-- Hero -->   
+            
+            <!-- /Hero -->   
+        </header>
         
         <!-- Footer -->
         <?php include 'assets/footer.php'; ?>
