@@ -1,7 +1,7 @@
 <header>
     <section class="navbar-fixed">
         <nav>
-    <div class="nav-wrapper">
+    <div class="nav-wrapper container">
       <a href="#!" class="brand-logo">Logo</a>
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
