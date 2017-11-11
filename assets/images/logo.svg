@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="logo.svg"
    inkscape:export-filename="/home/alodor/Escritorio/cubo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -28,55 +28,44 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497474"
-     inkscape:cx="521.73627"
-     inkscape:cy="610.88455"
+     inkscape:zoom="0.98994948"
+     inkscape:cx="98.950915"
+     inkscape:cy="95.077492"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1024"
-     inkscape:window-height="548"
+     inkscape:window-height="714"
      inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1">
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     units="px">
     <sodipodi:guide
        position="480,905.7143"
        orientation="0,1"
        id="guide3336" />
     <sodipodi:guide
-       position="-68.690374,454.56865"
-       orientation="0,1"
-       id="guide3338" />
-    <sodipodi:guide
-       position="600,774.28573"
-       orientation="1,0"
-       id="guide3340" />
-    <sodipodi:guide
-       position="137.14286,442.85715"
+       position="0,208.84904"
        orientation="1,0"
        id="guide3342" />
     <sodipodi:guide
-       position="371.42857,760.00002"
+       position="199.75767,209.85919"
        orientation="1,0"
        id="guide3344" />
-    <sodipodi:guide
-       position="-74.751289,670.7413"
-       orientation="0,1"
-       id="guide3346" />
     <sodipodi:guide
        position="808.57143,797.14287"
        orientation="0,1"
        id="guide3348" />
     <sodipodi:guide
-       position="-84.852814,547.50269"
-       orientation="0,1"
-       id="guide3350" />
-    <sodipodi:guide
-       position="-117.1777,735.39107"
+       position="177.53431,0"
        orientation="0,1"
        id="guide3362" />
+    <sodipodi:guide
+       position="117.93531,200.01021"
+       orientation="0,1"
+       id="guide3356" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -86,41 +75,46 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       style="fill:#0055d4;fill-rule:evenodd;stroke:none;stroke-width:1.085832px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 371.42801,146.69771 228.52677,128.03412 0,262.80687 -228.52677,134.77275 -234.23993,-134.77275 0,-262.80687 z"
-       id="path3360"
-       inkscape:connector-curvature="0" />
+     id="layer1"
+     transform="translate(0,-852.36216)">
     <g
-       id="g3351"
-       transform="matrix(1.0069673,0,0,0.96416936,-4.0137037,6.7348862)">
+       id="g3348"
+       transform="matrix(0.36194467,0,0,0.36194467,-33.867466,805.29434)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3360"
+         d="m 371.42801,146.69771 228.52677,128.03412 0,262.80687 -228.52677,134.77275 -234.23993,-134.77275 0,-262.80687 z"
+         style="fill:#0055d4;fill-rule:evenodd;stroke:none;stroke-width:1.085832px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <g
-         id="g3346">
-        <path
-           style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.76519918px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 373.05153,226.70123 159.31252,91.20883 0,187.21811 -159.31252,96.00927 -163.29526,-96.00927 0,-187.21811 z"
-           id="path3360-3"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#f9f9f9;fill-rule:evenodd;stroke:none;stroke-width:1.0166924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 209.71433,504.96635 374.27834,602.53317 375.70691,405.41154 209.8456,318.0514"
-           id="path3416"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:0.99757892px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 531.93902,509.43982 374.4861,601.82063 375.20038,404.79199 532.23602,319.0985"
-           id="path3416-6"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
+         transform="matrix(1.0069673,0,0,0.96416936,-4.0137037,6.7348862)"
+         id="g3351">
+        <g
+           id="g3346">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3360-3"
+             d="m 373.05153,226.70123 159.31252,91.20883 0,187.21811 -159.31252,96.00927 -163.29526,-96.00927 0,-187.21811 z"
+             style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.76519918px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="path3416"
+             d="M 209.71433,504.96635 374.27834,602.53317 375.70691,405.41154 209.8456,318.0514"
+             style="fill:#f9f9f9;fill-rule:evenodd;stroke:none;stroke-width:1.0166924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="path3416-6"
+             d="M 531.93902,509.43982 374.4861,601.82063 375.20038,404.79199 532.23602,319.0985"
+             style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:0.99757892px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
       </g>
     </g>
   </g>
