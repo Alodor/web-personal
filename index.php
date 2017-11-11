@@ -11,7 +11,7 @@
             <!-- /Navbar -->
             
             <!-- Hero -->   
-            
+            <?php include 'assets/hero.php'; ?>
             <!-- /Hero -->   
         </header>
         
