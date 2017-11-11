@@ -2,4 +2,65 @@
 body {
     font-family: 'Oxygen', sans-serif;
 }
+
+a {
+    text-decoration: none;
+}
 /* /General */
+
+
+/* Line Color */
+.line-wrapper {
+    width: 70%;
+    height: 1px;
+    background-color: #cfd8dc;
+}
+
+.line-color {
+    width: 30%;
+    height: 1px;
+    background-color: #2962ff;
+}
+/* /Line Color */
+
+
+/* Navbar */
+.navbar-fixed nav {    
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 75px;
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .3);
+}
+
+.nav-wrapper #logo {
+    width: 32%;
+}
+
+.nav-wrapper .button-collapse {
+    color: #37474f;
+}
+
+.nav-wrapper .brand-logo span {
+    position: fixed;
+    top: 5px;
+    margin-left: 5px;
+    color: #2962ff;
+}
+
+.nav-wrapper li a {
+    color: #37474f;
+}
+
+.nav-wrapper li a:hover {
+    background-color: transparent;
+}
+
+.nav-wrapper li .line-wrapper {
+    opacity: 0;
+    transition: .3s ease-in-out;
+}
+
+.nav-wrapper li:hover .line-wrapper {
+    opacity: 1;
+}
+/* /Navbar */
