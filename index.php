@@ -5,6 +5,13 @@
     </head>
     
     <body>
-    
+        <!-- Navbar -->
+        <?php include 'assets/navbar.php'; ?>
+        <!-- /Navbar -->
+        
+        
+        <!-- Scripts -->
+        <?php include 'assets/scripts.php'; ?>
+        <!-- /Scripts -->
     </body>
 </html>
