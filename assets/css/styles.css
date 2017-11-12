@@ -175,7 +175,18 @@ a {
     font-weight: lighter;
     color: #37474f;
 }
+
+.section-wrapper .line-wrapper {
+    margin-bottom: 50px;
+}
 /* /Section */
+
+
+/* Acerca de */
+#acerca .flow-text {
+    text-align: justify;
+}
+/* /Acerca de */
 
 
 
