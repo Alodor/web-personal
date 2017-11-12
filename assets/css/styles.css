@@ -64,3 +64,94 @@ a {
     opacity: 1;
 }
 /* /Navbar */
+
+
+/* Hero */
+.hero-wrapper {
+    margin-top: -10px;
+    height: 650px;
+    background-image: url('../images/bg-hero.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.hero-filter {
+    position: relative;
+    padding-top: 200px;
+    height: 650px;
+    background: linear-gradient(135deg, rgba(41, 98, 255, .85) 23%, rgba(0, 199, 83, .85) 100%);
+}
+
+.hero-title {
+    margin: 0;
+    color: #fff;
+}
+
+.hero-subtitle {
+    margin: 0;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: lighter;
+    font-size: 2.3em;
+}
+
+.hero-filter #scroll-down {
+    position: absolute;
+    bottom: 150px;
+    left: 49%;
+    color: #fff;
+    font-size: 3em;
+    font-weight: lighter;
+    opacity: .8;
+    animation-name: scroll-down;
+    animation-duration: 2.5s;
+    animation-iteration-count: 4;
+    animation-delay: 1.5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes scroll-down {
+    from {
+        transform: translateY(0px);
+    }
+    
+    to {
+        transform: translateY(50px);
+        opacity: .1;
+    }
+}
+/* /Hero */
+
+
+
+
+
+/*--------------------------
+------- Media Queries ------
+--------------------------*/
+@media screen and (max-width: 767px) {
+    /* Hero */
+    .hero-wrapper {
+        height: 100vh;
+    }
+
+    .hero-filter {
+        padding-top: 20vh;
+        height: 100vh;
+    }
+
+    .hero-title {
+        font-size: 3.4em;
+    }
+
+    .hero-subtitle {
+        font-size: 2em;
+    }
+    
+    .hero-filter #scroll-down {
+        position: absolute;
+        bottom: 150px;
+        left: 45%;
+    }
+    /* /Hero */
+}
