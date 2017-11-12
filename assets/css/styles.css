@@ -89,6 +89,10 @@ a {
 .nav-wrapper li:hover .line-wrapper {
     opacity: 1;
 }
+
+.nav-wrapper .side-nav {
+    background-color: #fff;
+}
 /* /Navbar */
 
 
