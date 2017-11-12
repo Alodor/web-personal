@@ -63,7 +63,7 @@ a {
 }
 
 .nav-wrapper .button-collapse {
-    color: #37474f;
+    color: #607d8b;
 }
 
 .nav-wrapper .brand-logo span {
@@ -182,6 +182,25 @@ a {
 /* /Section */
 
 
+/* Progressbar */
+progress {
+    background-color: #eceff1;
+    width: 80%;
+}
+
+progress::-webkit-progress-bar { 
+    background-color: #eceff1; 
+}
+progress::-webkit-progress-value { 
+    background: #2962ff;
+}
+
+progress::-moz-progress-bar { 
+    background: #2962ff;
+}
+/* /Progressbar */
+
+
 /* Acerca de */
 #acerca .flow-text {
     text-align: justify;
@@ -189,9 +208,24 @@ a {
 /* /Acerca de */
 
 
+/* Habilidades */
+#habilidades p {
+    font-size: 1.1em;
+}
+/* /Habilidades */
+
+
+/* Google map */
+#map {
+    height: 300px;
+    background-color: #eceff1;
+}
+/* /Google map */
+
 
 /* Footer */
 .page-footer {
+    margin-top: 0 !important;
     background-color: #607d8b !important;
     color: #fff;
 }
