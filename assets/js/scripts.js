@@ -1,8 +1,4 @@
 $(document).ready(function() {
-    // Activar el menu responsive
-    $(".button-collapse").sideNav();
-    
-    
     // Enviar Formulario Contacto
 	$("#fcontacto").submit(function(event) {
 		event.preventDefault();
@@ -18,6 +14,32 @@ $(document).ready(function() {
 		});
 		return false;
 	});
+    
+    
+    // To top
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 700) {
+            $('.arriba').fadeIn();
+        } else {
+            $('.arriba').fadeOut();
+        }
+    });
+    $('.arriba').click(function(event) {
+        event.preventDefault();
+        $('html, body').animate({
+            scrollTop: 0
+        }, 2000);
+    });
+    
+    
+    // Desplazamiento hacia las secciones
+    $('.anchor').click(function(e) {
+        e.preventDefault();
+        enlace = $(this).attr('href');
+        $('html, body').animate({
+            scrollTop: $(enlace).offset().top
+        }, 1000);
+    });
 });
 
 

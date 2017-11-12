@@ -264,6 +264,28 @@ progress::-moz-progress-bar {
 /* /Footer */
 
 
+/* To top */
+.arriba {
+    z-index: 1000;
+    display: none;
+    position: fixed;
+    padding: 5px 15px;
+    bottom: 20px;
+    right: 20px;    
+    background-color: #263238;
+    color: #fff;
+    cursor: pointer;
+    font-size: 2em;
+    transition: .3s ease-in-out;
+    opacity: .6;
+}
+
+.arriba:hover {
+    opacity: 1;
+}
+/* /To top */
+
+
 
 
 

@@ -221,6 +221,10 @@
         <!-- Footer -->
         <?php include 'assets/footer.php'; ?>
         <!-- /Footer -->
+                       
+        <!-- To top -->
+        <?php include 'assets/to_top.php'; ?>
+        <!-- /To top -->
                         
         <!-- Scripts -->
         <?php include 'assets/scripts.php'; ?>

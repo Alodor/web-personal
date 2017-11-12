@@ -5,40 +5,28 @@
                 <img id="logo" class="responsive-img" src="assets/images/logo.svg" alt="Logo Alodor">
                 <span>Alodor</span>
             </a>
-            
-            <a data-activates="mobile-demo" class="button-collapse">
-                <i class="fa fa-bars"></i>
-            </a>
 
             <ul class="right hide-on-med-and-down">
                 <li>
-                    <a href="#inicio">Inicio</a>
+                    <a href="#inicio" class="anchor">Inicio</a>
                     <div class="line-wrapper"><div class="line-color"></div></div>
                 </li>
                 <li>
-                    <a href="#acerca">Acerca de</a>
+                    <a href="#acerca" class="anchor">Acerca de</a>
                     <div class="line-wrapper"><div class="line-color"></div></div>
                 </li>
                 <li>
-                    <a href="#habilidades">Habilidades</a>
+                    <a href="#habilidades" class="anchor">Habilidades</a>
                     <div class="line-wrapper"><div class="line-color"></div></div>
                 </li>
                 <li>
-                    <a href="#portafolio">Portafolio</a>
+                    <a href="#portafolio" class="anchor">Portafolio</a>
                     <div class="line-wrapper"><div class="line-color"></div></div>
                 </li>
                 <li>
-                    <a href="#contacto">Contacto</a>
+                    <a href="#contacto" class="anchor">Contacto</a>
                     <div class="line-wrapper"><div class="line-color"></div></div>
                 </li>
-            </ul>
-
-            <ul class="side-nav" id="mobile-demo">
-                <li><a href="#inicio">Inicio</a></li>
-                <li><a href="#acerca">Acerca de</a></li>
-                <li><a href="#habilidades">Habilidades</a></li>
-                <li><a href="#portafolio">Portafolio</a></li>
-                <li><a href="#contacto">Contacto</a></li>
             </ul>
         </div>
     </nav>    
