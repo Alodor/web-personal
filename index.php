@@ -49,7 +49,9 @@
                         <p>JavaScript</p>
                         <progress value="70" max="100"></progress>
                         <p>Java</p>                    
-                        <progress value="35" max="100"></progress>                   
+                        <progress value="35" max="100"></progress>
+                        <p>jQuery</p>                    
+                        <progress value="80" max="100"></progress>
                     </div>
                     <div class="col s12 m4 center">
                         <p>PHP</p>                    
@@ -60,6 +62,8 @@
                         <progress value="95" max="100"></progress>
                         <p>Base de Datos</p>
                         <progress value="74" max="100"></progress>
+                        <p>Laravel</p>
+                        <progress value="30" max="100"></progress>
                     </div>
                     <div class="col s12 m4 center">                    
                         <p>SEO</p>
@@ -70,6 +74,8 @@
                         <progress value="35" max="100"></progress>
                         <p>UI / UX</p>                    
                         <progress value="80" max="100"></progress>
+                        <p>Bootstrap</p>                    
+                        <progress value="90" max="100"></progress>
                     </div>
                 </div>
             </div>
@@ -81,6 +87,55 @@
             <div class="container">
                 <h3 class="section-title">Portafolio</h3>
                 <div class="line-wrapper"><div class="line-color"></div></div>
+                
+                <div class="row">
+                    <div class="col s12">
+                        <p class="flow-text">Aportar valor a su negocio es lo fundamental</p>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <article class="col s12 m6">
+                        <div class="card hoverable">
+                            <div class="card-image">
+                                <img src="assets/images/portfolio/techsolution.jpg">
+                            </div>
+                            <div class="card-stacked">
+                                <div class="card-content">
+                                    <p class="flow-text">Tech Solution</p>
+                                    <p>One Page</p>
+                                </div>
+                                <div class="card-action">
+                                    <a href="http://techsolution.com.ve/" target="_blank" class="blue-text text-accent-4">
+                                        <i class="fa fa-external-link"></i>
+                                        Ver proyecto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <!-- ********************************* -->
+                    <article class="col s12 m6">
+                        <div class="card hoverable">
+                            <div class="card-image">
+                                <img src="assets/images/portfolio/wuzzy.jpg">
+                            </div>
+                            <div class="card-stacked">
+                                <div class="card-content">
+                                    <p class="flow-text">Wuzzy</p>
+                                    <p>Web App</p>
+                                </div>
+                                <div class="card-action">
+                                    <a href="http://www.wuzzy.com.ve/" target="_blank" class="blue-text text-accent-4">
+                                        <i class="fa fa-external-link"></i>
+                                        Ver proyecto
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <!-- ********************************* -->
+                </div>
             </div>
         </section>
         <!-- /Portafolio -->

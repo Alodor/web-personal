@@ -215,6 +215,18 @@ progress::-moz-progress-bar {
 /* /Habilidades */
 
 
+/* Portafolio */
+#portafolio .card img {
+    filter: grayscale(100%);
+    transition: .3s ease-in-out;
+}
+
+#portafolio .card:hover img {
+    filter: grayscale(0%);
+}
+/* /Portafolio */
+
+
 /* Google map */
 #map {
     height: 300px;
