@@ -149,15 +149,7 @@
                     
                         <!-- Aviso de Confirmacion -->
                         <div class="row">
-                            <div id="respuesta" class="col s12" style="//display: none">
-                                <div class="card-panel light-green accent-4 center">
-                                    <span class="white-text">Tu mensaje ha sido enviado satisfactoriamente</span>
-                                </div>
-                                
-                                <div class="card-panel red center">
-                                    <span class="white-text">Todos los campos son requeridos para poder enviar el mensaje</span>
-                                </div>
-                            </div>
+                            <div id="respuesta" class="col s12" style="display: none"></div>
                         </div>
                         <!-- /Aviso de Confirmacion -->                        
                     </div>

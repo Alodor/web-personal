@@ -1,6 +1,23 @@
 $(document).ready(function() {
     // Activar el menu responsive
     $(".button-collapse").sideNav();
+    
+    
+    // Enviar Formulario Contacto
+	$("#fcontacto").submit(function(event) {
+		event.preventDefault();
+
+		$.ajax({
+			type: 'post',
+			url: 'send.php',
+			data: $(this).serialize(),
+			success: function(data){
+				$("#respuesta").slideDown();
+				$("#respuesta").html(data);
+			}
+		});
+		return false;
+	});
 });
 
 
