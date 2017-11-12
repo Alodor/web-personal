@@ -190,6 +190,35 @@ a {
 
 
 
+/* Footer */
+.page-footer {
+    background-color: #607d8b !important;
+    color: #fff;
+}
+
+.page-footer a {
+    color: #fff;
+}
+
+.page-footer .fa {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 2em;
+    color: #eceff1;
+    opacity: .5;
+    transition: .3s ease-in-out;
+}
+
+.page-footer .fa:hover {
+    opacity: 1;
+}
+/* /Footer */
+
+
+
 
 
 /*--------------------------
