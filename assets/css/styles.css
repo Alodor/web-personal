@@ -123,6 +123,31 @@ a {
 /* /Hero */
 
 
+/* Section */
+.section-wrapper {
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+
+.section-light {
+    background-color: #fff;
+}
+
+.section-grey {
+    background-color: #eceff1;
+}
+
+.section-dark {
+    background-color: #607d8b;
+}
+
+.section-wrapper .section-title {
+    font-weight: lighter;
+    color: #37474f;
+}
+/* /Section */
+
+
 
 
 

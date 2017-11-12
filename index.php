@@ -16,33 +16,37 @@
         </header>
         
         <!-- Acerca de -->
-        <section class="section-wrapper section-light">
+        <section id="acerca" class="section-wrapper section-light">
             <div class="container">
-                <h3>Acerca de</h3>
+                <h3 class="section-title">Acerca de</h3>
+                <div class="line-wrapper"><div class="line-color"></div></div>
             </div>
         </section>
         <!-- /Acerca de -->
         
         <!-- Habilidades -->
-        <section class="section-wrapper section-light">
+        <section id="habilidades" class="section-wrapper section-light">
             <div class="container">
-                <h3>Habilidades</h3>
+                <h3 class="section-title">Habilidades</h3>
+                <div class="line-wrapper"><div class="line-color"></div></div>
             </div>
         </section>
         <!-- /Habilidades -->
         
         <!-- Portafolio -->
-        <section class="section-wrapper section-grey">
+        <section id="portafolio" class="section-wrapper section-light">
             <div class="container">
-                <h3>Portafolio</h3>
+                <h3 class="section-title">Portafolio</h3>
+                <div class="line-wrapper"><div class="line-color"></div></div>
             </div>
         </section>
         <!-- /Portafolio -->
                 
         <!-- Contacto -->
-        <section class="section-wrapper section-light">
+        <section id="contacto" class="section-wrapper section-light">
             <div class="container">
-                <h3>Contacto</h3>
+                <h3 class="section-title">Contacto</h3>
+                <div class="line-wrapper"><div class="line-color"></div></div>
             </div>
         </section>
         <!-- /Contacto -->

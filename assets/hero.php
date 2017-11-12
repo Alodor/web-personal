@@ -1,4 +1,4 @@
-<section class="hero-wrapper">
+<section id="inicio" class="hero-wrapper">
     <div class="hero-filter">
         <div class="container">
             <h1 class="hero-title">José Alejandro Méndez</h1>
