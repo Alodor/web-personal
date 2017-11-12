@@ -104,6 +104,65 @@
                         </p>
                     </div>
                 </div>
+                
+                <div class="row">
+                    <!-- Formulario -->
+                    <div class="col s12">                    
+                        <form id="fcontacto">
+                            <div class="input-field col s12 m6">
+                                <input id="nombre" class="input" name="nombre" type="text" autocomplete="off" required>
+                                <label for="nombre">Nombre</label>
+                            </div>
+                            <!-- *************************** -->
+                            <div class="input-field col s12 m6">
+                                <input id="email" class="input" name="email" type="email" autocomplete="off" required>
+                                <label for="email">Email</label>
+                            </div>
+                            <!-- *************************** -->
+                            <div class="input-field col s12 m6">
+                                <input id="telefono" class="input" name="telefono" type="text" autocomplete="off" required>
+                                <label for="telefono">Teléfono</label>
+                            </div>
+                            <!-- *************************** -->
+                            <div class="input-field col s12 m6">
+                                <select name="asunto" class="browser-default">
+                                    <option value="Informacion">Información</option>
+                                    <option value="Gracias">Gracias</option>
+                                    <option value="Queja">Queja</option>
+                                    <option value="Sugerencia">Sugerencia</option>
+                                    <option value="Otro">Otro</option>
+                                </select>
+                            </div>
+                            <!-- *************************** -->
+                            <div class="input-field col s12">                     
+                                <textarea id="mensaje" class="materialize-textarea input" name="mensaje" required></textarea>
+                                <label for="mensaje">Escriba su mensaje</label>
+                            </div>
+                            
+                            <!-- Button -->
+                            <button class="btn btn-large waves-effect waves-light col s12  blue-grey darken-4" type="submit">
+                                Enviar
+                                <i class="fa fa-paper-plane right"></i>
+                            </button>
+                            <!-- /Button -->
+                        </form>
+                    
+                        <!-- Aviso de Confirmacion -->
+                        <div class="row">
+                            <div id="respuesta" class="col s12" style="//display: none">
+                                <div class="card-panel light-green accent-4 center">
+                                    <span class="white-text">Tu mensaje ha sido enviado satisfactoriamente</span>
+                                </div>
+                                
+                                <div class="card-panel red center">
+                                    <span class="white-text">Todos los campos son requeridos para poder enviar el mensaje</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /Aviso de Confirmacion -->                        
+                    </div>
+                    <!-- /Formulario -->
+                </div>
             </div>
         </section>
         <!-- /Contacto -->
