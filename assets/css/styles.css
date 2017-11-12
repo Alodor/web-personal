@@ -98,9 +98,9 @@ a {
 .hero-filter #scroll-down {
     position: absolute;
     bottom: 150px;
-    left: 49%;
+    left: 50%;
     color: #fff;
-    font-size: 3em;
+    font-size: 2em;
     font-weight: lighter;
     opacity: .8;
     animation-name: scroll-down;
@@ -117,7 +117,7 @@ a {
     
     to {
         transform: translateY(50px);
-        opacity: .1;
+        opacity: .2;
     }
 }
 /* /Hero */
@@ -176,7 +176,6 @@ a {
     .hero-filter #scroll-down {
         position: absolute;
         bottom: 150px;
-        left: 45%;
     }
     /* /Hero */
 }

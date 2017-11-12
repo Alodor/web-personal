@@ -7,7 +7,7 @@
             </a>
             
             <a data-activates="mobile-demo" class="button-collapse">
-                <i class="material-icons">menu</i>
+                <i class="fa fa-bars"></i>
             </a>
 
             <ul class="right hide-on-med-and-down">
