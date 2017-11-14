@@ -215,7 +215,7 @@
         <!-- /Contacto -->
         
         <!-- Google map -->
-        <section id="map"></section>
+        <address id="map"></address>
         <!-- /Google map -->
                 
         <!-- Footer -->
